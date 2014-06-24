@@ -1,9 +1,11 @@
+## FOIA and Technology: a development blog
+
 [18F](https://18f.gsa.gov) has created a delivery team to implement part of the [Open Government National Action Plan](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf)'s commitment to modernizing the Freedom of Information Act.
 
 We are tasked with bringing technology to bear on this problem. We are *not tasked* with developing new regulations or legislation. Of course, neither policy nor technology exists in a vacuum, and they will depend heavily on each other.
 
 
-## Where we are
+### Where we are
 
 18F works in the open, and so you can follow our work and project discussions on GitHub, centered at [18F's `foia` repository](https://github.com/18f/foia). You can use GitHub's "Watch" feature to be notified of ongoing discussion in that repository. We'll be trying to do as much project deliberation and stakeholder interaction as possible in GitHub.
 
@@ -12,7 +14,7 @@ Over time, the work will likely expand to include multiple repositories tackling
 In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the delivery team will write about our goals, plans, and progress. Compared to GitHub, updates will be less frequent and more narrative, but this is a **development blog** and so it will frequently be "in the weeds" and technical. You can use [our RSS feed](http://18f.github.io/foia/feed/) to follow our updates.
 
 
-## Our plan
+### Our plan
 
 Our team's plan is to **reduce friction** for requestors and agencies in the FOIA process, **absorb the entropy** of petitioning a federated government of autonomous agencies, and **create a clear path** for the release of public records.
 
