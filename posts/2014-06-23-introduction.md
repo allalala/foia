@@ -15,7 +15,7 @@ In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the develop
 
 ### Our plan
 
-Our team's plan is to **reduce friction** for requestors and agencies in the FOIA process, create **scalable infrastructure** for petitioning a federated government of autonomous agencies, and **clear the path** for the release of public records.
+Our team's plan is to **reduce friction** for requestors and agencies in the FOIA process, create **scalable infrastructure** for making requests of a federated government of agencies and components, and **clear the path** for agencies to release public records.
 
 To this end, we're developing, or looking at developing:
 
