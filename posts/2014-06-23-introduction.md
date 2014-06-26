@@ -1,9 +1,8 @@
 ## FOIA and Technology: a development blog
 
-Welcome! We're the team created by [18F](https://18f.gsa.gov) to implement part of the U.S. Government's [commitment](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) to modernize the Freedom of Information Act.
+Welcome! We're a team at [18F](https://18f.gsa.gov) that's implementing part of the U.S. Government's [commitment](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) to modernize the Freedom of Information Act. This commitment was made in late 2013, and we're starting work now on the implementation. We'll be writing here about the work and challenges along the way.
 
-We're tasked with bringing technology to bear on this problem. We're *not tasked* with developing new regulations or legislation. Of course, neither policy nor technology exists in a vacuum, and they will depend heavily on each other.
-
+Our team is tasked with bringing technology to bear on this problem. We're *not tasked* with developing new regulations or legislation. Of course, neither policy nor technology exists in a vacuum, and they will depend heavily on each other.
 
 ### Where we are
 
@@ -11,7 +10,7 @@ We're tasked with bringing technology to bear on this problem. We're *not tasked
 
 Over time, the work will likely expand to include multiple repositories tackling more specific elements of the work, but our project-level discussions will remain at [`18f/foia`](https://github.com/18f/foia). So if you want to keep in close touch with the project, that's where to do it.
 
-In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the delivery team will write about our goals, plans, and progress. Compared to GitHub, updates will be less frequent and more narrative, but this is a **development blog** and so it will frequently be "in the weeds" and technical. You can use [our RSS feed](http://18f.github.io/foia/feed/) to follow our updates.
+In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the development team will write about our goals, plans, and progress. Compared to GitHub, updates will be less frequent and more narrative, but this is a **development blog** and so it will frequently be "in the weeds" and technical. You can use [our RSS feed](http://18f.github.io/foia/feed/) to follow our updates.
 
 
 ### Our plan
@@ -26,8 +25,6 @@ To this end, we're developing, or looking at developing:
 * A lightweight **application for FOIA offices** to track and process requests. It would use the same interoperable request and response API as described above.
 * Tools to help agencies **efficiently prepare records ** for release. In particular, tools to make responsive documents accessible could increase the quality and quantity of publicly released documents &mdash; and be broadly useful in the federal government beyond FOIA.
 
-That's a lot of stuff. We most likely won't end up choosing (or being able) to work on or finish all of them.
+That's a lot of stuff. We most likely won't end up choosing (or being able) to work on or finish all of them. But we think these are the areas that have the highest return on investment in using technology to modernize how the Freedom of Information Act functions in the United States.
 
-What we think is that these are the areas that have the highest return on investment in using technology to modernize how the Freedom of Information Act functions in the United States.
-
-And **we welcome your help!** 18F is an [open source team](#) working in the public domain, and if you'd like to be a part of that: here we are.
+And **we welcome your help!** 18F is an [open source team](#) working in the public domain &mdash; watch this space, and join us along the way.
