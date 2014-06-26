@@ -1,6 +1,6 @@
 ## FOIA and Technology: a development blog
 
-[18F](https://18f.gsa.gov) has created a delivery team to implement part of the [Open Government National Action Plan](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf)'s commitment to modernizing the Freedom of Information Act.
+[18F](https://18f.gsa.gov) has created a delivery team to implement part of the U.S. Governement's [commitment](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) to modernize the Freedom of Information Act.   
 
 We are tasked with bringing technology to bear on this problem. We are *not tasked* with developing new regulations or legislation. Of course, neither policy nor technology exists in a vacuum, and they will depend heavily on each other.
 
