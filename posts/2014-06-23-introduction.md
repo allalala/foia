@@ -20,7 +20,7 @@ Our team's plan is to **reduce friction** for requestors and agencies in the FOI
 To this end, we're developing, or looking at developing:
 
 * A **consolidated FOIA tool** for requestors. A central, user-facing front-end from which anyone can start a FOIA request to an agency in the federal government.
-* A **working request and response API and spec** for agencies to get and resolve FOIA requests. In other words, a common way for the tool to work with an agency's FOIA processing systems &mdash; at least at the very beginning and end of the process.
+* A **working request and response API and spec** for agencies to get and resolve FOIA requests. In other words, a common way for the tool to work with an agency's new or existing FOIA processing systems &mdash; at least at the very beginning and end of the process.
 * An interface for **discovering public records** released through FOIA. At the very least, this means a public read API.
 * A lightweight **application for FOIA offices** to track and process requests. It would use the same interoperable request and response API as described above.
 * Tools to help agencies **efficiently prepare records ** for release. In particular, tools to make responsive documents accessible could increase the quality and quantity of publicly released documents &mdash; and be broadly useful in the federal government beyond FOIA.
