@@ -1,17 +1,17 @@
 ## FOIA and Technology: a development blog
 
-Hi! We're the team that [18F](https://18f.gsa.gov) created to implement part of the U.S. Governement's [commitment](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) to modernize the Freedom of Information Act.   
+Welcome! We're the team created by [18F](https://18f.gsa.gov) to implement part of the U.S. Government's [commitment](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) to modernize the Freedom of Information Act.
 
-We're tasked with bringing technology to bear on this problem. We are *not tasked* with developing new regulations or legislation. Of course, neither policy nor technology exists in a vacuum, and they will depend heavily on each other.
+We're tasked with bringing technology to bear on this problem. We're *not tasked* with developing new regulations or legislation. Of course, neither policy nor technology exists in a vacuum, and they will depend heavily on each other.
 
 
 ### Where we are
 
-18F works in the open, and so you can follow our work and project discussions online, centered at [18F's `foia` repository](https://github.com/18f/foia). You can use the "Watch" feature to be notified of ongoing discussion in that repository. We'll do as much project deliberation and stakeholder interaction as possible in public.
+18F works in the open, and so you can follow our work and project discussions on GitHub, centered at [18F's `foia` repository](https://github.com/18f/foia). You can use GitHub's "Watch" feature to be notified of ongoing discussion in that repository. We'll do as much project deliberation and stakeholder interaction as possible in GitHub.
 
 Over time, the work will likely expand to include multiple repositories tackling more specific elements of the work, but our project-level discussions will remain at [`18f/foia`](https://github.com/18f/foia). So if you want to keep in close touch with the project, that's where to do it.
 
-In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the delivery team will write about our goals, plans, and progress. Compared to a normal software code respository, updates will be less frequent and more narrative, but this is a **development blog** and so it will frequently be "in the weeds" and technical. You can use [our RSS feed](http://18f.github.io/foia/feed/) to follow our updates.
+In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the delivery team will write about our goals, plans, and progress. Compared to GitHub, updates will be less frequent and more narrative, but this is a **development blog** and so it will frequently be "in the weeds" and technical. You can use [our RSS feed](http://18f.github.io/foia/feed/) to follow our updates.
 
 
 ### Our plan
