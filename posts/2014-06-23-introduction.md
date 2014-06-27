@@ -6,7 +6,11 @@ Our team is tasked with bringing technology to bear on this problem. We're *not 
 
 ### Where we are
 
-18F works in the open, and so you can follow our work and project discussions on GitHub, centered at [18F's `foia` repository](https://github.com/18f/foia). You can use GitHub's "Watch" feature to be notified of ongoing discussion in that repository. We'll do as much project deliberation and stakeholder interaction as possible in GitHub.
+18F works in the open, and so you can follow our work and project discussions on GitHub, centered at [18F's `foia` repository](https://github.com/18f/foia). You can use GitHub's "Watch" feature to be notified of ongoing discussion in that repository. 
+
+[![Image of Github's Watch feature taken from FOIA repo landing page](https://cloud.githubusercontent.com/assets/166734/3418466/ec6bfee6-fe47-11e3-94d6-a09d60483be6.png)](https://github.com/18f/foia)
+
+We'll do as much project deliberation and stakeholder interaction as possible in GitHub.
 
 Over time, the work will likely expand to include multiple repositories tackling more specific elements of the work, but our project-level discussions will remain at [`18f/foia`](https://github.com/18f/foia). So if you want to keep in close touch with the project, that's where to do it.
 
@@ -17,14 +21,16 @@ In *this* space ([18f.github.io/foia](https://18f.github.io/foia/)), the develop
 
 Our team's plan is to **reduce friction** for requestors and agencies in the FOIA process, create **scalable infrastructure** for making requests of a federated government of agencies and components, and **clear the path** for agencies to release public records.
 
-To this end, we're developing, or looking at developing:
+To this end, we are looking at developing:
 
 * A **consolidated FOIA tool** for requestors. A central, user-facing front-end from which anyone can start a FOIA request to an agency in the federal government.
-* A **working request and response API and spec** for agencies to get and resolve FOIA requests. In other words, a common way for the tool to work with an agency's new or existing FOIA processing systems &mdash; at least at the very beginning and end of the process.
-* An interface for **discovering public records** released through FOIA. At the very least, this means a public read API.
-* A lightweight **application for FOIA offices** to track and process requests. It would use the same interoperable request and response API as described above.
-* Tools to help agencies **efficiently prepare records ** for release. In particular, tools to make responsive documents accessible could increase the quality and quantity of publicly released documents &mdash; and be broadly useful in the federal government beyond FOIA.
+* A **working request and response API and spec** for agencies to get and resolve FOIA requests. In other words, a common way for the tool to work with an agency's new or existing FOIA processing systems.
+* An interface for **discovering public records** released through FOIA. In this early stages, this means a public read API.
+* An **application for FOIA offices** to track and process requests. It would use the same interoperable request and response API as described above.
+* Tools to help agencies **efficiently prepare records** for release. The goal of these extra tools would be to increase the quantity, quality, and accessibility of records. 
 
-That's a lot of stuff. We most likely won't end up choosing (or being able) to work on or finish all of them. But we think these are the areas that have the highest return on investment in using technology to modernize how the Freedom of Information Act functions in the United States.
+That's a lot of stuff. It should be noted that the development of this will happen in an iterative fashion, so not everything will appear at once. 
 
-And **we welcome your help!** 18F is an [open source team](#) working in the public domain &mdash; watch this space, and join us along the way.
+Lastly, **we welcome your help!** 18F is an [open source team](#) working in the public domain. Watch this space, and join us along the way.
+
+
